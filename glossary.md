@@ -98,8 +98,13 @@ SEO stands for Search Engine Optimization, this is the process of improving the 
 
 ## PHP
 
-
 ## Express.js
+Express.js is a frame for Javascript that is used to create web applications. The framework uses Node.js to create backend nodes and building RESTful APIs. It is free and it is open source with an MIT License.
+Links to learn more:
+
+https://expressjs.com/
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+https://en.wikipedia.org/wiki/Express.js
 
 
 ## Bootstrap (design library)
